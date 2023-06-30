@@ -2,6 +2,5 @@
 layout: default
 ---
 
-![](/assets/images/swccgpc_wb.svg)
 
-
+![swccg](assets/images/new_pc_logo.jpg)
