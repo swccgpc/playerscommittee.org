@@ -3,4 +3,4 @@ layout: default
 ---
 
 
-![swccg](assets/images/new_pc_logo.jpg)
+![swccg](assets/images/swccgpc2_wb.svg)
